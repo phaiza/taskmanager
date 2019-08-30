@@ -1,3 +1,5 @@
 Hi
 this is a sample text file
 it has 3 lines
+now it has 5 lines
+bye
